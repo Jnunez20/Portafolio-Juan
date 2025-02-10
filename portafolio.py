@@ -124,7 +124,7 @@ elif seccion == "Proyectos":
     # Diccionario con proyectos y sus imágenes
     proyectos = {
         "Diseño de prótesis en Fusion 360": {
-            "descripcion": "Creé un mecanismo de dedos tipo pinza con servomotores.",
+            "descripcion": "Diseñé una prótesis impresa en 3D capaz de realizar movimientos de flexión y extensión de las falanges. Su funcionamiento se basa en una señal electromiográfica que controla un servomotor ",
             "imagen1": "Protesis.jpeg"
         },
         "Diseño de nebulizador en Fusion 360": {
@@ -136,11 +136,11 @@ elif seccion == "Proyectos":
             "imagen1": "Pcb1.jpeg"
         },
         "Detección de cáncer de pulmón con MATLAB": {
-            "descripcion": "Desarrollé un código en Matlab para identificar cáncer benigno o maligno con imágenes de tomografía computarizada.",
+            "descripcion": "Desarrollé un código en MATLAB para analizar imágenes de tomografía computarizada y determinar la presencia de cáncer, diferenciando entre casos benignos y malignos mediante técnicas de procesamiento de imágenes y análisis de características.",
             "imagen1": "Mat1.jpg"
         },
         "Diseño de urgencias en Revit": {
-            "descripcion": "Diseñé los planos del área de urgencias junto con la normatividad establecida.",
+            "descripcion": "Diseñé los planos del área de urgencias, asegurando el cumplimiento de la normatividad establecida para garantizar un entorno seguro, funcional y eficiente en la atención médica.",
             "imagen1": "Revit1.jpg"
         },
     }   
