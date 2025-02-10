@@ -125,7 +125,7 @@ elif seccion == "Proyectos":
     proyectos = {
         "Diseño de prótesis en Fusion 360": {
             "descripcion": "Creé un mecanismo de dedos tipo pinza con servomotores.",
-            "imagen1": "protesis.jpeg"
+            "imagen1": "Protesis.jpeg"
         },
         "Diseño de nebulizador en Fusion 360": {
             "descripcion": "Diseñé e imprimí el hardware de un nebulizador portátil.",
